@@ -1,0 +1,27 @@
+{
+  "name": "mean_template",
+  "version": "1.0.0",
+  "description": "<h2> Basic skeleton code for a MEAN stack application. </h2> Here are the steps to be followed after cloning the code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsm-kbl/mean_template.git"
+  },
+  "author": "DSM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsm-kbl/mean_template/issues"
+  },
+  "homepage": "https://github.com/dsm-kbl/mean_template#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "compression": "^1.6.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1"
+  }
+}
