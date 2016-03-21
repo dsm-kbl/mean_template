@@ -1,3 +1,4 @@
-module.exports = function(){
-
+module.exports = {
+    db: 'mongodb://localhost/template-db',
+    sessionSecret: 'developmentSessionSecret'
 };
